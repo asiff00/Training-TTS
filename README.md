@@ -5,6 +5,6 @@ This is a repository to train TTS models. All the training/finetuning are focusi
 
 
 # References
-1. https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_
+1. https://colab.research.google.com/drive/1PdcCcTUUYAxBM3_mDT2_UNz0ZoUkMee_?usp=sharing#scrollTo=hPz96-1-ttl
 2. https://colab.research.google.com/drive/1ZK-2lAV2DokrN92sYPJRl47XyuuluCJe
 
